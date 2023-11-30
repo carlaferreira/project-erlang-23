@@ -3,7 +3,7 @@
 
 ## Erlang Lab Class #3 - Project
 
-DEADLINE 15/12/2023 11:59AM
+DEADLINE 15/12/2023 11:59 AM
 
 ----
 To submit your answers, simply push your files onto the repository. The problem will be graded.
