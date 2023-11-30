@@ -39,7 +39,7 @@ In this project the goal is to implement a simple messaging system.
 * The system has two components: 
   * The client that sends the requests to the server; and 
   * The server that manages the client's requests.
-*The server can include multiple processes.
+* The server can include multiple processes.
 * Based on the projected description define the interaction protocol between client and server.
 
 ### Supported Requests
