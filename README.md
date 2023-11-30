@@ -18,7 +18,7 @@ In this project the goal is to implement a simple messaging system.
 * **Register**
   * Users can register in the system with a given nickname.
   * Only registered users can connect to the server.
-* **Connect***
+* **Connect**
   * A registered user can connect to the server.
   * Once a user is connected to the server they can join any number of chat rooms.
   * After registration it is assumed that the user is connected.
