@@ -49,7 +49,7 @@ The client interacts with the server with the following requests:
 * **connect** to the messaging server
   * Server possible replies: ok, already_connected, unknown_user
 * **disconnect** from the messaging server
-  * Server possible replies: ok, still_in_chatroom, not_connected
+  * Server possible replies: ok, still_in_chatroom, not_connected, *unknown_user*
 * **join** a chat room
   * Server possible replies: ok, already_joined, *not_connected*, *unknown_user*
 * **write** a message in a chat room
